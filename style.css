@@ -1,0 +1,27 @@
+li
+{
+	display: inline;
+	text-decoration: none;
+	
+
+}
+
+ul
+{
+	text-align: center;
+	margin-right: 5px;
+}
+
+body
+{
+	color: black;
+	margin-left: 10px;
+	background-color: #F2E4C2;
+}
+
+img
+{
+	width: 8%;
+	height: 8%;
+	margin-bottom: 25px;
+}
